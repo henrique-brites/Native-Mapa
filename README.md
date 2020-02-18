@@ -13,3 +13,4 @@ Para ver a aplicação mobile com o React Native primeiro é necessário configu
 npm install
 react-native start
 ```
+Feito com :purple_heart: by  Henrique Brites :wave:
